@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working at SMTM Capital <br>
-🌱 I’m currently learning Python. Check my Python Journey from ![python](https://vine-hacksaw-a5b.notion.site/Chapter-1-Game-Over-Program-4357fb5fa45d410da707c5f657f1e6e4)
+🌱 I’m currently learning Python. Check my Python Journey from [Explore](https://vine-hacksaw-a5b.notion.site/Chapter-1-Game-Over-Program-4357fb5fa45d410da707c5f657f1e6e4)
 
  
 
