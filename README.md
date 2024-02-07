@@ -7,7 +7,7 @@
 
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?&style=for-the-badge&logo=AmazonEC2&logoColor=white)![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white)![GNUBash](https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNUBash&logoColor=white)![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white)![Amazon S3](https://img.shields.io/badge/-AmazonS3-569A31?&style=for-the-badge&logo=AmazonS3&logoColor=white)
 
-https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif
+![](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
 
 <!--
 **IshaShrestha/IshaShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
