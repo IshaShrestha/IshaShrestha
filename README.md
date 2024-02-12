@@ -2,7 +2,7 @@
 
 
 🔭 I’m currently working at SMTM Capital <br>
-🌱 I’m currently learning Python. Check my Python Journey from [Explore](https://vine-hacksaw-a5b.notion.site/Python_Journey-2049343d05fb4c3789f118602fce1acd)
+🌱 I’m currently learning Python. Check my Python Journey from [Notion](https://vine-hacksaw-a5b.notion.site/Python_Journey-2049343d05fb4c3789f118602fce1acd)
 
  
 
